@@ -10,7 +10,7 @@ export const navLinks = [
     title: "Mint a Token",
   },
   {
-    id: "https://gateway.ipfscdn.io/ipfs/QmQsh9k6ZM5zy3wA6GEdiVoXDVry52Pn8icw8nFEVsgYns/",
+    id: "https://thirdweb-runner-game.netlify.app/",
     title: "Launch Game",
   },
 ];
